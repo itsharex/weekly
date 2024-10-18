@@ -9,7 +9,8 @@
 
 ### 十月
 
-*  [第 152 期: 一个年收入18万美金的设计工具](https://github.com/ljinkai/weekly/blob/main/2024/issue-151.md)
+*  [第 153 期: 一个网站UI组件库每月收入8万美元](https://github.com/ljinkai/weekly/blob/main/2024/issue-153.md)
+*  [第 152 期: 一个年收入18万美金的设计工具](https://github.com/ljinkai/weekly/blob/main/2024/issue-152.md)
 
 ### 九月
 
